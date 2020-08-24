@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aff6e9c0-5f03-418b-80fc-2f17021b5675" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/APP_AUTO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Common/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Common/base_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Common/config_path.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Common/my_log.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desired_Caps/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desired_Caps/caps.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desired_Caps/demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OutPuts/Logs/log_app.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OutPuts/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PageLocators/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PageObjects/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestCases/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestCases/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestDatas/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/baise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\WWM\Desktop\APP_AUTO\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fr8N9tRDdDaLSgGSyjRrgxTSUr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../API_AUTO" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\WWM\Desktop\APP_AUTO\Desired_Caps" />
+      <recent name="C:\Users\WWM\Desktop\APP_AUTO\learn" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.demo (1)">
+    <configuration name="config_path" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="APP_AUTO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Common" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Common/config_path.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="APP_AUTO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Desired_Caps" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desired_Caps/demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="APP_AUTO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\WWM\Desktop\APP_AUTO\Desired_Caps\demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="my_log" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="APP_AUTO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Common" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Common/my_log.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.demo (1)" />
+        <item itemvalue="Python.my_log" />
+        <item itemvalue="Python.config_path" />
+        <item itemvalue="Python.demo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aff6e9c0-5f03-418b-80fc-2f17021b5675" name="Default Changelist" comment="" />
+      <created>1596964811051</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596964811051</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596966833641">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="137" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1596966833641" />
+    <state x="391" y="0" key="#demo" timestamp="1597073184531">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="391" y="0" key="#demo/0.0.1366.738@0.0.1366.738" timestamp="1597073184531" />
+    <state x="321" y="0" key="CommitChangelistDialog2" timestamp="1598283457325">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="321" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1598283457325" />
+    <state x="463" y="124" key="FileChooserDialogImpl" timestamp="1598280858924">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1598280858924" />
+    <state width="1345" height="182" key="GridCell.Tab.0.bottom" timestamp="1597937432636">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1597937432636" />
+    <state width="1345" height="182" key="GridCell.Tab.0.center" timestamp="1597937432636">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1597937432636" />
+    <state width="1345" height="182" key="GridCell.Tab.0.left" timestamp="1597937432636">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1597937432636" />
+    <state width="1345" height="182" key="GridCell.Tab.0.right" timestamp="1597937432636">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1597937432636" />
+    <state x="184" y="11" key="SettingsEditor" timestamp="1598280979515">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="11" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1598280979515" />
+    <state x="363" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1598078828964">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="363" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1598078828964" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1597583767653">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1597583767653" />
+  </component>
+</project>

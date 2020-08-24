@@ -1,0 +1,8 @@
+#字典
+platformName: Android
+deviceName: Android Emulator
+platformVersion: 7.1
+appPackage: com.chineseall.reader
+appActivity: com.chineseall.reader.ui.activity.SplashActivity
+noReset: True
+automationName: UiAutomator1
